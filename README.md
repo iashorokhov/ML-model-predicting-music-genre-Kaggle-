@@ -21,5 +21,5 @@
 ## Тестовый и обучающий наборы данных разделены в разные файлы: kaggle_music_genre_train.csv и kaggle_music_genre_test.csv
 ## Файл с предсказаниями модели: predictions.csv
 ## В качестве лучше модели выбрана модель случайного леса
-## Файл ноутбука с исследованием: music-genre-pre.ipynb
+## Файл ноутбука с исследованием: project_notebook.ipynb
 ## Файл кода с моделью: rf_model.py
